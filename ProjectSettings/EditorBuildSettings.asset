@@ -1,0 +1,38 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: Assets/Scenes/SampleScene.unity
+    guid: 9b39e18786b6aff4f8530523381f887e
+  - enabled: 1
+    path: Assets/Scenes/Menu.unity
+    guid: 89a9cea6a6ed6d648bf0f69255e49be1
+  - enabled: 1
+    path: Assets/Scenes/PauseMenu.unity
+    guid: 10e0944367a94484aaedaede401f2d49
+  - enabled: 1
+    path: Assets/Scenes/Bridge.unity
+    guid: 14d8a6f0889c7ed4794bc580a4824775
+  - enabled: 1
+    path: Assets/Scenes/buildingArea.unity
+    guid: c00ca05cb28037245a188f4e9006205e
+  - enabled: 1
+    path: Assets/Scenes/City.unity
+    guid: 6e9bfaed27c81a24091cb0a426f1b5c4
+  - enabled: 1
+    path: Assets/Scenes/LoadingScene.unity
+    guid: 1ea9c70337b46484e9820cd054790dc7
+  - enabled: 1
+    path: Assets/Scenes/GameOver.unity
+    guid: 313f9f02aae29864a9f2ec6e5590f59b
+  - enabled: 0
+    path: Assets/Cursors/Demo.unity
+    guid: 2e284ead81017da4aaf4e36c95685b4a
+  - enabled: 1
+    path: Assets/Scenes/YouWon.unity
+    guid: 5d27827f89836f44cac650a81b0998d4
+  m_configObjects: {}
